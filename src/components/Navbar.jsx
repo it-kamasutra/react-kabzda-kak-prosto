@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
     return <nav className='nav'>
-        <div>
+        <div className='item'>
             <a>Profile</a>
         </div>
         <div>
